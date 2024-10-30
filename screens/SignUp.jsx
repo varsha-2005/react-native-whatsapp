@@ -77,7 +77,6 @@ const styles = StyleSheet.create({
     },
     logBtn:{
         marginTop:20,
-        color:'#1e90ff',
         textAlign:'center',
         color:'#25d366'
     },
